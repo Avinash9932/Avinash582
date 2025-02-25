@@ -1,0 +1,20 @@
+S1: Open Git Bash
+
+S2: change the directory to current working directory using cd "name of folder"
+
+S3: Create a folder name Git using "mkdir Git"
+
+S4: Change the cwd to Git using "cd Git"
+
+S5: To make a txt file type "vim (name of the file).txt "
+
+S6: After entering the above command a editor will open. 
+
+S7: Enter I for write mode. A INSERT message will be highlighted at the bottom.
+
+S8: Type the context in the vim editor.
+
+S9: To save the file type ":wq" and Enter
+
+S10: To verify the file type "ls" in bash terminal a .txt file will be present.
+
